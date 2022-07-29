@@ -1,0 +1,27 @@
+# a='python'
+# print(a.upper())
+
+# print('python'.upper())
+# print('python'.lower())
+# print('PROGRAM'.casefold())
+# print('mobile'.isupper())
+# print('MOBILE'.isupper())
+# print('mobiLe'.islower())
+# print('mobile'.islower())
+# print('Python'.swapcase())
+# print('python'.capitalize())
+# print('python CoDe'.title())
+# print('Real Me'.istitle())
+# print('python 
+# programe'.startswith('F'))
+# print('python 
+# programe'.startswith('P'))
+# print('python 
+# programe'.endswith('pyt'))
+# print('python 
+# programe'.endswith('am'))
+# print('python 
+# programe'.endswith('gram'))
+# print(len('python'))
+# print('python'.find('h'))
+# print('python'.find('T'))
